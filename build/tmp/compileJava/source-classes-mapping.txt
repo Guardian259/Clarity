@@ -1,0 +1,4 @@
+com/guardian/clarity/registry/VisibilityRegistry.java
+ com.guardian.clarity.registry.VisibilityRegistry
+com/guardian/clarity/Clarity.java
+ com.guardian.clarity.Clarity
